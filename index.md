@@ -20,8 +20,9 @@ Conforme con la normativa, estos derechos son ejercidos directamente por el titu
 Otra medida de control prevista en la Ley es la aplicada a las bases de datos personales tanto públicas como privadas cualquiera sea el soporte en el cual se encuentre la información. La Ley condiciona la legalidad de estas bases a su inscripción en el Registro que a estos efectos lleva la Unidad. A ello se agrega que el principio de legalidad establece que las bases de datos no pueden tener finalidades violatorias de derechos humanos, ser contrarias a las leyes o a la moral pública.  
 Otras garantías que establece la ley y que resultan de gran relevancia son las asociadas a las potestades de la Unidad respecto a los responsables de bases de datos, entre ellas, las relativas a la posibilidad de solicitar información y a la realización de inspecciones y auditorías._ [Fuente](https://www.ohchr.org/sites/default/files/Documents/Issues/Privacy/Uruguay.pdf)
 
-### Representación del derecho a la privacidad creado con inteligencia artificial
+### Representación del derecho
 
+813u43h1htrjkqhtkjqhtkjlqht
 
 ### Conclusión
 

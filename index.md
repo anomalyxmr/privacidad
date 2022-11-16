@@ -9,15 +9,7 @@ Observando con preocupación estos fenómenos de las décadas recientes y con el
 
 ### ¿Por qué es necesaria la protección de datos?
 
-_Cada vez que usted utiliza un servicio, compra un producto en línea, se registra  
-para obtener un correo electrónico, visita al médico, paga sus impuestos, celebra  
-algún contrato o solicita algún servicio, debe proporcionar datos personales.  
-Empresas y agencias con las que probablemente usted jamás supo que  
-interactuaba generan y recogen datos e información sobre su persona, sin que  
-usted tenga conocimiento de ello. La única manera en que los ciudadanos y los  
-consumidores pueden confiar en el Gobierno y las empresas es mediante prácticas  
-rigurosas de protección de datos, con una legislación efectiva que contribuya a  
-minimizar la vigilancia estatal y corporativa y la explotación de datos._ [Fuente](https://privacyinternational.org/sites/default/files/2018-11/Part%201%20-%20Proteccio%CC%81n%20de%20Datos_web_1.pdf)
+_Cada vez que usted utiliza un servicio, compra un producto en línea, se registra para obtener un correo electrónico, visita al médico, paga sus impuestos, celebra algún contrato o solicita algún servicio, debe proporcionar datos personales. Empresas y agencias con las que probablemente usted jamás supo que interactuaba generan y recogen datos e información sobre su persona, sin que usted tenga conocimiento de ello. La única manera en que los ciudadanos y los consumidores pueden confiar en el Gobierno y las empresas es mediante prácticas rigurosas de protección de datos, con una legislación efectiva que contribuya a minimizar la vigilancia estatal y corporativa y la explotación de datos._ [Fuente](https://privacyinternational.org/sites/default/files/2018-11/Part%201%20-%20Proteccio%CC%81n%20de%20Datos_web_1.pdf)
 
 ### Regulación a nivel nacional
 
@@ -30,7 +22,6 @@ Otras garantías que establece la ley y que resultan de gran relevancia son las 
 
 ### Representación del derecho a la privacidad creado con inteligencia artificial
 
-empty
 
 ### Conclusión
 

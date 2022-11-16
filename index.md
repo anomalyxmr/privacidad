@@ -1,9 +1,17 @@
 ## Derecho a la privacidad
 
+### ¿Qué es?
+
 _La protección de datos personales es un derecho humano, tuitivo no de los datos en sí, sino de las personas. Toda interpretación con respecto a los objetivos perseguidos en este documento debe partir de esa premisa fundamental.
 Desde un punto de vista instrumental y en un escenario global de tráfico constante de información, la protección de datos personales cumple dos funciones. Por un lado, regula la capacidad que tienen las personas para conocer, editar, gestionar o eliminar datos sobre ellas mismas. Por otro, mediante un conjunto de reglas específicas y principios generales, establece límites para el uso de datos por parte de entidades públicas y privadas.
 La interceptación de telecomunicaciones, el monitoreo desproporcionado de los espacios públicos a través de sistemas de videovigilancia, la recolección o publicación de datos personales sin el consentimiento de sus titulares, así como el tratamiento automatizado de información a través de algoritmos o inteligencia artificial representan algunos de los problemas que intenta resolver y de los que se ocupa activamente esta rama del derecho.
 Observando con preocupación estos fenómenos de las décadas recientes y con el fin de mitigar los riesgos que entrañan, las Autoridades de Control de la República Oriental del Uruguay y de la República Argentina han decidido cooperar para diseñar un mecanismo de carácter preventivo que busca minimizar los potenciales daños a la privacidad: la Evaluación de Impacto en la Protección de Datos (EIPD)._ 
+
+### Representación del derecho a la privacidad creado con inteligencia artificial
+
+
+
+### Conclusión
 
 Personalmente creo que el derecho a la privacidad es de los derechos más importantes y que más se estan perdiendo en la actualidad con el uso de las redes sociales, cada día las personas dejan que las compañías accedan a más información personal, está comprobado que con el tiempo esto ha empeorado, las compañías intentan sacar la máxima información posible aunque muchas veces lo nieguen como en el caso de Google o Facebook, también con el paso del tiempo las técnicas para conseguir esta información ha mejorado y se han vuelto cada vez más de película, como por ejemplo a través del micrófono, quién se podría imaginar que me estarían escuchando para saber las cosas que quiero comprar para después mostrarme anuncios sobre dichos productos? 
 Sin el derecho a la privacidad no somos nada, personalmente creo que el derecho a la privacidad está fuertemente vinculado con la libertad de expresión ya que con privacidad las personas son libres de expresarse, no se sienten vigiladas por un ente gubernamental o una compañía. 

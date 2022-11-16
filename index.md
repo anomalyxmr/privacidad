@@ -9,4 +9,4 @@ Personalmente creo que el derecho a la privacidad es de los derechos más import
 Sin el derecho a la privacidad no somos nada, personalmente creo que el derecho a la privacidad está fuertemente vinculado con la libertad de expresión ya que con privacidad las personas son libres de expresarse, no se sienten vigiladas por un ente gubernamental o una compañía. 
 También es sabido que los gobiernos atentan cada vez más sobre la privacidad de la población sin realmente informarlo, un caso muy reconocido en la comunidad de la inteligencia es el caso de Edward Snowden, un ex-consultor de la CIA y la NSA que filtró documentos en los que comprobaba como el gobierno de Estados Unidos había creado un programa para recolectar información de la población con la colaboración de muchas empresas famosas (Google, Yahoo, Microsoft, Facebook, Apple, etc)
 
-![][https://upload.wikimedia.org/wikipedia/commons/f/f3/PRISM_Collection_Details.jpg]
+![](https://upload.wikimedia.org/wikipedia/commons/f/f3/PRISM_Collection_Details.jpg)

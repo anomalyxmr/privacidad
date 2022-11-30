@@ -28,7 +28,7 @@ La imagen retrata un _panóptico_, modelo diseñado por Jeremy Bentham. Este con
 
 #### No te metas -  Buenos Vampiros
 
-_No te tomes tan en serio mis malas palabras
+No te tomes tan en serio mis malas palabras</br>
 No lo tomes personal, es así mi única forma de comunicar
 Si te grito es porque es mi forma de hablar
 No te creas tan importante
@@ -36,7 +36,7 @@ Nada de esto es por ti, pero, te lo tengo que decir
 No me malinterpretes, no opines por mi
 No sabes lo que pienso, no supongas de mi
 No me malinterpretes, no opines por mi
-No sabes lo que pienso, no te metas en mi_
+No sabes lo que pienso, no te metas en mi
 
 Por otro lado, la canción _No te metas_ de Buenos Vampiros habla de una manera más criolla sobre el sentimiento de querer ser dejado solo a tu privacidad, siendo que el actor principal de la obra le pide tener su espacio a otro.
 

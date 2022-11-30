@@ -28,7 +28,7 @@ La imagen retrata un _panóptico_, modelo diseñado por Jeremy Bentham. Este con
 
 #### No te metas -  Buenos Vampiros
 
-No te tomes tan en serio mis malas palabras</br>
+No te tomes tan en serio mis malas palabras
 No lo tomes personal, es así mi única forma de comunicar
 Si te grito es porque es mi forma de hablar
 No te creas tan importante

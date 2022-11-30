@@ -22,12 +22,32 @@ Otras garantías que establece la ley y que resultan de gran relevancia son las 
 
 ### Representación del derecho
 
-813u43h1htrjkqhtkjqhtkjlqht
+![](https://sc2.elpais.com.uy/files/article_main/uploads/2019/03/05/5c7ee069798b8.jpeg)
+
+La imagen retrata un _panóptico_, modelo diseñado por Jeremy Bentham. Este concepto, según explica Michel Foucault, refiere a un ‘poder invisible’, donde los sujetos (las celdas en las paredes) se sienten observados de manera constante por un ente (la estructura en el medio) al cual no pueden ver. Los afectados temen lo que el ente pueda observar, por lo que se comportan de distinta manera a lo que harían en el caso de estar en su completa privacidad. Un ejemplo muy claro de esto es el programa de Gran Hermano donde los participantes se ven sometidos a una vigilancia las 24hs por sujetos a los cuales ellos no ven, todas sus acciones son grabadas con motivo de consumo de entretenimiento. Oscuro es pensar la posibilidad de ver las 24 horas diarias de la vida de una persona de manera ininterrumpida.
+
+#### No te metas -  Buenos Vampiros
+
+_No te tomes tan en serio mis malas palabras
+No lo tomes personal, es así mi única forma de comunicar
+Si te grito es porque es mi forma de hablar
+No te creas tan importante
+Nada de esto es por ti, pero, te lo tengo que decir
+No me malinterpretes, no opines por mi
+No sabes lo que pienso, no supongas de mi
+No me malinterpretes, no opines por mi
+No sabes lo que pienso, no te metas en mi_
+
+Por otro lado, la canción _No te metas_ de Buenos Vampiros habla de una manera más criolla sobre el sentimiento de querer ser dejado solo a tu privacidad, siendo que el actor principal de la obra le pide tener su espacio a otro.
+
+### Noticia
+
+En la [noticia](https://www.lanacion.com.ar/opinion/proteccion-datos-privacidad-nid2593637/), se expone la actualización de condiciones en la aplicación de WhatsApp, donde se aclaran cambios con respecto a la comercialización de datos personales como “datos del teléfono móvil como su modelo y marca, sistema operativo, carga de batería, proveedor de servicio de internet, potencia de la señal, modelo de hardware y dirección IP para geolocalización”- Al igual que otras advertencias de términos y condiciones, la aplicación no muestra directamente esta información, sino que requiere del usuario leer detenidamente para poder enterarse de ello, cosa que es poco probable. No obstante, este nuevo aviso no se limita solo a la aplicación de mensajería, sino que también es política general de Meta (Facebook, Instagram, etc.). 
+
+Si bien la compañía sigue cifrando el contenido de los mensajes de cada usuario, la venta de los demás datos a terceros afectan de manera directa a nuestro día a día, siendo que miles de empresas sabrán dónde vivimos, cómo es nuestra apariencia, con quienes hablamos, qué cosas hemos buscado últimamente y qué tipo de dispositivos utilizamos. Esto de por sí solo no sería un mayor problema, ya que, hasta donde sabemos, esas compañías solo quieren vender sus productos. Pero es cuando suceden [hackeos](https://tn.com.ar/tecno/aplicaciones/2022/11/25/alerta-mundial-por-un-masivo-hackeo-de-whatsapp-hay-mas-de-2-millones-de-cuentas-de-argentina-comprometidas/) a estas plataformas que uno ha de alaencionado desde un principio, se vuelve peligrosa, convirtiendo algo tan inocente como una red social o una app de mensajería en un atropello a la privacidad.
 
 ### Conclusión
 
 Personalmente creo que el derecho a la privacidad es de los derechos más importantes y que más se estan perdiendo en la actualidad con el uso de las redes sociales, cada día las personas dejan que las compañías accedan a más información personal, está comprobado que con el tiempo esto ha empeorado, las compañías intentan sacar la máxima información posible aunque muchas veces lo nieguen como en el caso de Google o Facebook, también con el paso del tiempo las técnicas para conseguir esta información ha mejorado y se han vuelto cada vez más de película, como por ejemplo a través del micrófono, quién se podría imaginar que me estarían escuchando para saber las cosas que quiero comprar para después mostrarme anuncios sobre dichos productos? 
 Sin el derecho a la privacidad no somos nada, personalmente creo que el derecho a la privacidad está fuertemente vinculado con la libertad de expresión ya que con privacidad las personas son libres de expresarse, no se sienten vigiladas por un ente gubernamental o una compañía. 
 También es sabido que los gobiernos atentan cada vez más sobre la privacidad de la población sin realmente informarlo, un caso muy reconocido en la comunidad de la inteligencia es el caso de Edward Snowden, un ex-consultor de la CIA y la NSA que filtró documentos en los que comprobaba como el gobierno de Estados Unidos había creado un programa para recolectar información de la población con la colaboración de muchas empresas famosas (Google, Yahoo, Microsoft, Facebook, Apple, etc)
-
-![](https://upload.wikimedia.org/wikipedia/commons/f/f3/PRISM_Collection_Details.jpg)
